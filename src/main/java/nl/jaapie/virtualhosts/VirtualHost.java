@@ -1,4 +1,4 @@
-package nl.jaapie.virtualhosts.models;
+package nl.jaapie.virtualhosts;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -11,7 +11,7 @@ import net.md_5.bungee.config.Configuration;
 import net.md_5.bungee.config.ConfigurationProvider;
 import net.md_5.bungee.config.YamlConfiguration;
 import nl.jaapie.virtualhosts.VirtualHosts;
-import nl.jaapie.virtualhosts.models.VirtualHost;
+import nl.jaapie.virtualhosts.VirtualHost;
 
 import java.io.File;
 import java.io.IOException;

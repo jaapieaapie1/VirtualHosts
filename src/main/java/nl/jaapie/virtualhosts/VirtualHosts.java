@@ -8,7 +8,6 @@ import net.md_5.bungee.config.ConfigurationProvider;
 import net.md_5.bungee.config.YamlConfiguration;
 import nl.jaapie.virtualhosts.commands.VirtualHostCommand;
 import nl.jaapie.virtualhosts.listeners.ReconnectListener;
-import nl.jaapie.virtualhosts.models.VirtualHost;
 
 import java.io.File;
 import java.io.IOException;

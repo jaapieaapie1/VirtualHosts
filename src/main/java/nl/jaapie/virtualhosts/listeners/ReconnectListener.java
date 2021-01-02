@@ -6,7 +6,7 @@ import net.md_5.bungee.api.config.ServerInfo;
 import net.md_5.bungee.api.connection.ProxiedPlayer;
 import nl.jaapie.virtualhosts.VirtualHosts;
 import nl.jaapie.virtualhosts.events.VirtualHostEvent;
-import nl.jaapie.virtualhosts.models.VirtualHost;
+import nl.jaapie.virtualhosts.VirtualHost;
 
 public class ReconnectListener implements ReconnectHandler {
 
