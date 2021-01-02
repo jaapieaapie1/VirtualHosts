@@ -12,8 +12,6 @@ import net.md_5.bungee.config.ConfigurationProvider;
 import net.md_5.bungee.config.YamlConfiguration;
 import nl.jaapie.virtualhosts.VirtualHosts;
 import nl.jaapie.virtualhosts.models.VirtualHost;
-import org.yaml.snakeyaml.util.ArrayUtils;
-import sun.security.util.ArrayUtil;
 
 import java.io.File;
 import java.io.IOException;
