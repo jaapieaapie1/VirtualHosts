@@ -1,0 +1,5 @@
+hosts:
+  example_com:
+    server: lobby
+  pvp_example_com:
+    server: pvp

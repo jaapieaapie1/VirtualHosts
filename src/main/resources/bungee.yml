@@ -1,0 +1,5 @@
+name: VirtualHosts
+version: ${project.version}
+main: nl.jaapie.virtualhosts.VirtualHosts
+description: Virtual host plugin
+author: jaapie
