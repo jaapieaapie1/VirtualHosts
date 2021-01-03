@@ -10,7 +10,7 @@ import nl.jaapie.virtualhosts.VirtualHost;
 
 public class ReconnectListener implements ReconnectHandler {
 
-    private ReconnectHandler superHandler;
+    private final ReconnectHandler superHandler;
 
     public ReconnectListener(ReconnectHandler superHandler) {
         this.superHandler = superHandler;
